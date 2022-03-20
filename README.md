@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yusuf625
-- 👀 I’m interested in ... Android development, Web development, Machine tranmslation.
-- 🌱 I’m currently learning ... ReactJS
-- 💞️ I’m looking to collaborate on ... Machine translation projects
+- 👀 I’m interested in ... Android development, Web development, Machine translation and Game development.
+- 🌱 I’m currently learning ... Unreal Engine 4 
+- 💞️ I’m looking to collaborate on ... anything interesting
 - 📫 How to reach me ... 
 
 <!---
