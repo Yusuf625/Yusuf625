@@ -4,4 +4,4 @@ Data Analyst with a Computer Systems Engineering background, specialising in per
 
 🛠 Tools: Excel, Google Sheets, Looker Studio, SQL  
 📈 Focus: Revenue analysis, operational reporting, and conversion optimisation  
-🌍 Building a portfolio aligned with data analyst roles in Australia.
+🌍 Building a portfolio aligned with data analyst roles.
